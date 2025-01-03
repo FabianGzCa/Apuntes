@@ -1,0 +1,1 @@
+Repositorio con mis apuntes, vease [índice](./Indice) para ver el contenido.
