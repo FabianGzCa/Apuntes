@@ -1,0 +1,1 @@
+Este **contenedor** tiene como propósito desglozar los principales temas que se deben conocer para adentrarse en el sistema operativo Linux.
